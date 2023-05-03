@@ -1,6 +1,0 @@
-1.Buat script untuk menjumlahkan angka berikut: 198, 134, 76. Gunakan juga statemen teks untuk menampilkan hasilnya!
-2.Buat script untuk menjumlahkan angka: 15, 45. lalu kurangi jawaban tersebut dengan angka 100. Gunakan statemen untuk menampilkan hasilnya!
-3.Gunakan variabel untuk menghitung jawaban dari: (200*15)/10.Gunakan statemen untuk menampilkan hasilnya!
-4.Buat script untuk menampilkan keuntungan penjualan suatu barang (Kaos Olahraga) menggunakan variabel dan operator aritmatika,
-Harga beli:30.000, harga jual:40.000, pajak: 10%, jumlah barang:5
-Tampilkan dilayar Nama Barang:.....,Total Pembelian:....,Total Penjualan: ...., Laba Kotor:....,Laba Bersih:.....
