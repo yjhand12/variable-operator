@@ -15,8 +15,8 @@
         $jumlah_barang = 5;
         $total_pembelian = 30000 * 5;
         $total_penjualan = 40000 * 5;
-        $laba_kotor = $total_penjualan - $total_penjualan * $pajak;
-        $laba_bersih = $laba_kotor - $total_pembelian;
+        $laba_kotor = $total_penjualan - $total_pembelian;
+        $laba_bersih = $laba_kotor - ($laba_kotor * $pajak);
         $space = "<br>";
 
         echo "Nama Barang       : ".$nama_barang .$space;
