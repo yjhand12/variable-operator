@@ -12,8 +12,12 @@
         $angka_kedua = 15;
         $angka_ketiga = 10;
         $jumlah = $angka_pertama * $angka_kedua / $angka_ketiga;
-        $text = "Hasil dari perhitungan 200*15/10 adalah ";
+        $text = "Hasil dari perhitungan ".$angka_pertama. " * ".$angka_kedua. " / ".$angka_ketiga. " adalah ";
+        $space = "<br>";
         
+        echo "Angka pertama = ".$angka_pertama .$space;
+        echo "Angka kedua = ".$angka_kedua .$space;
+        echo "Angka ketiga = ".$angka_ketiga .$space;
         echo $text .$jumlah;
     ?>
 </body>

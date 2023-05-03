@@ -11,7 +11,7 @@
         $angka_pertama = 198;
         $angka_kedua = 134;
         $angka_ketiga = 76;
-        $text = "Hasil dari penjumlahan ketiga angka diatas : ";
+        $text = "Hasil dari penjumlahan ketiga angka diatas = ";
         $space = "<br>";
         $jumlah = $angka_pertama + $angka_kedua + $angka_ketiga;
 

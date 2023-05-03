@@ -12,8 +12,12 @@
         $angka_kedua =  45;
         $jumlah = $angka_pertama + $angka_kedua;
         $hasil = $jumlah - "100";
+        $space = "<br>";
 
-        echo $hasil;
+        echo "Angka pertama  = ".$angka_pertama .$space;
+        echo "Angka kedua    = ".$angka_kedua .$space;
+        echo "Hasil dari penjumlahan dua angka diatas adalah ".$jumlah .$space;
+        echo " Hasil dari ".$jumlah. " - 100 = ".$hasil;
     ?>
 </body>
 </html>
